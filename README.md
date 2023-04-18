@@ -1,6 +1,7 @@
 ### Hi there 👋
-https://github.com/Sarah-okolo/Sarah-okolo/raw/main/8CPR.gif
+
 <!--
+![](https://github.com/Sarah-okolo/Sarah-okolo/raw/main/8CPR.gif)
 **JSPlacid/JSPlacid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
